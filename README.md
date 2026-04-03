@@ -3,4 +3,4 @@ Different scenarios for different domain is studied and given the responses acco
 in different scenarios.
 
 ## Case study 1
-(https://github.com/snehad27/Case_studies/blob/main/Case_study_Digital_learning_platform.pdf)[Click here to see the full case study]
+[Click here to see full case study on Digital learning platform data](https://github.com/snehad27/Case_studies/blob/main/Case_study_Digital_learning_platform.pdf)
